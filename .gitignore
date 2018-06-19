@@ -6,6 +6,7 @@ detect_animeface/faces96/
 crawl_fav_image/images/
 cluster_faces/cluster6/
 crawl_fav_list/config.py 
+crawl_image/images/*
 
 ### macOS ###
 *.DS_Store
